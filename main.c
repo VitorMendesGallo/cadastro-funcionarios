@@ -27,6 +27,7 @@ Funcionario funcionarios[MAX_FUNCIONARIOS];
 int total_funcionarios = 0;
 
 
+
 double salarioFinalCalc(double base, double bonus, int dependentes){
 	double salario_bruto = base + bonus; 
 	
